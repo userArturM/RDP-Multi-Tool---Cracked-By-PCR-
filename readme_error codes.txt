@@ -1,0 +1,1 @@
+https://msdn.microsoft.com/en-us/library/aa382170(v=vs.85).aspx
